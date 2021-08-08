@@ -1,7 +1,6 @@
 name: Shell Command
 
-on :[Push]
-
+on : [push]
 
 jobs:
   run-shell-command:
